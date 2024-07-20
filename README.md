@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @surajgithub23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 🙂, I'm Suraj Parida</h1>
+<h3 align="center">Final Year UG Student @ ITER </h3>
 
-<!---
-surajgithub23/surajgithub23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 align="center"> Having knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices.</h4>
+
+📝 *Feel free to contact me. I am always here ...* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br>
+<!-- ✔  My Digital Protfolio : --> 
+- 💻 My Leetcode Profile : https://leetcode.com/ujjwalzero9/
+- 💻 My CodeChef Profile : https://www.codechef.com/users/ujjwalzero9
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/ujjwalzero9/
+
+💻 Languages and Tools: 🛠<br>
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+
+
+## 🏆 Github Stats
+
+
+
+
+<img  src="https://github-readme-stats.vercel.app/api?username=ujjwalzero9&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalzero9" width="48%" >
+<br>
